@@ -21,10 +21,10 @@
 
 |[박인영](https://github.com/PIYoung)|[조우현](https://github.com/chowoohyun)|[이재욱](https://github.com/jvvook)|[박주희](https://github.com/juliajh)|
 | :----: | :----: | :----: | :----: |
-| [![Avatar](https://avatars.githubusercontent.com/u/49637184?v=4)](https://github.com/PIYoung) | [![Avatar](https://avatars.githubusercontent.com/u/67001050?v=4)](https://github.com/chowoohyun) | [![Avatar](https://avatars.githubusercontent.com/u/24962972?v=4)](https://github.com/jvvook) | [![Avatar](https://avatars.githubusercontent.com/u/54497150?v=4)](https://github.com/juliajh) |
+| <a href="https://github.com/PIYoung"><img src="https://avatars.githubusercontent.com/u/49637184?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/chowoohyun"><img src="https://avatars.githubusercontent.com/u/67001050?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/jvvook"><img src="https://avatars.githubusercontent.com/u/24962972?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/juliajh"><img src="https://avatars.githubusercontent.com/u/54497150?v=4" alt="Avatar" width="150px" /></a> |
 
 ### Network
 
 |[전현정](https://github.com/hyunjungjeon)|[이상우](https://github.com/mungjin4966)|[최윤서](https://github.com/YSChoi123)|
 | :---: | :---: | :---: |
-| [![Avatar](https://avatars.githubusercontent.com/u/70558461?v=4)](https://github.com/hyunjungjeon) | [![Avatar](https://avatars.githubusercontent.com/u/67566068?v=4)](https://github.com/mungjin4966) | [![Avatar](https://avatars.githubusercontent.com/u/73926427?v=4)](https://github.com/YSChoi123) |
+| <a href="https://github.com/hyunjungjeon"><img src="https://avatars.githubusercontent.com/u/70558461?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/mungjin4966"><img src="https://avatars.githubusercontent.com/u/67566068?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/YSChoi123"><img src="https://avatars.githubusercontent.com/u/73926427?v=4" alt="Avatar" width="150px" /></a> |
