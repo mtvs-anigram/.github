@@ -19,9 +19,9 @@
 
 ### AI
 
-|[박인영](https://github.com/PIYoung)|[조우현](https://github.com/chowoohyun)|[이재욱](https://github.com/jvvook)|[박주희](https://github.com/juliajh)|
+|[박인영](https://github.com/PIYoung)|[조우현](https://github.com/chowoohyun)|[이재욱](https://github.com/jvvoolc)|[박주희](https://github.com/juliajh)|
 | :----: | :----: | :----: | :----: |
-| <a href="https://github.com/PIYoung"><img src="https://avatars.githubusercontent.com/u/49637184?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/chowoohyun"><img src="https://avatars.githubusercontent.com/u/67001050?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/jvvook"><img src="https://avatars.githubusercontent.com/u/24962972?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/juliajh"><img src="https://avatars.githubusercontent.com/u/54497150?v=4" alt="Avatar" width="150px" /></a> |
+| <a href="https://github.com/PIYoung"><img src="https://avatars.githubusercontent.com/u/49637184?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/chowoohyun"><img src="https://avatars.githubusercontent.com/u/67001050?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/jvvoolc"><img src="https://avatars.githubusercontent.com/u/24962975?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/juliajh"><img src="https://avatars.githubusercontent.com/u/54497150?v=4" alt="Avatar" width="150px" /></a> |
 
 ### Network
 
